@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341429389886",
+    "firebase_url": "https://qurx-b86b7.firebaseio.com",
+    "project_id": "qurx-b86b7",
+    "storage_bucket": "qurx-b86b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341429389886:android:a756276fd70ef9ad17df6f",
+        "android_client_info": {
+          "package_name": "com.qurx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341429389886-80lllbucic8np4d890mkqc8vhra5vj6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qurx",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "341429389886-4cv9hh53l6gbjmu4cr5fmujuh389bd56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjO5VuKG58mLJWGnK-NSqwqWEbk-z2xWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341429389886-4cv9hh53l6gbjmu4cr5fmujuh389bd56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "341429389886-70e6md3p34f50l6pkd8esctcgu3ti7s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evontech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
